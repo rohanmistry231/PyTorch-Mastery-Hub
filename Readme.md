@@ -37,8 +37,8 @@ Each folder contains a specific topic with an associated Jupyter notebook (`.ipy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pytorch-full-material.git
-   cd pytorch-full-material
+   git clone https://github.com/rohanmistry231/PyTorch-Mastery-Hub.git
+   cd PyTorch-Mastery-Hub
    ```
 2. Install dependencies:
    ```bash
